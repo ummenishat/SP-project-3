@@ -111,10 +111,10 @@ void main()
             // Calling cal() function with
             // three argument & return value
             d = cal(a1, a2, j);
-            printf("Total Bill Amount: %d\n", d);
+            printf("Total Bill of Amount: %d\n", d);
         }; break;
         case 4: {
-            strcpy(train, "Garib-Rath Express");
+            strcpy(train, "Kurigram Express");
             strcpy(station, "Sealdah Station");
             time1 = 05;
             time2 = 00;
