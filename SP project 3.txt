@@ -314,5 +314,5 @@ void bill(int y, int j)
         printf("\t\t%d ", a[i]);
     }
     printf("\n");
-    printf("\t\t\t\tThank You......\n");
+    printf("\t\t\t\tcongratulation......\n");
 }
